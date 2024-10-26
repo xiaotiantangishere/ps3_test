@@ -1,6 +1,8 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Gabrielle Pan"
+
+author: "Gabrielle Pan,Xiaotian Tang"
+
 format: 
   pdf:
     include-in-header: 
